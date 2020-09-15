@@ -1,9 +1,0 @@
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\bin\Debug\Naolex downloader.exe.config
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\bin\Debug\Naolex downloader.exe
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\bin\Debug\Naolex downloader.pdb
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex_downloader.Main.resources
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex_downloader.Properties.Resources.resources
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex downloader.csproj.GenerateResource.cache
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex downloader.csproj.CoreCompileInputs.cache
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex downloader.exe
-C:\Users\HP\source\repos\Naolex downloader\Naolex downloader\obj\Debug\Naolex downloader.pdb
