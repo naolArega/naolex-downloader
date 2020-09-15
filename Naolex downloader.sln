@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2037
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naolex downloader", "Naolex downloader\Naolex downloader.csproj", "{B48143A9-DCCB-49C1-BE63-FAEDF433D01F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B48143A9-DCCB-49C1-BE63-FAEDF433D01F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B48143A9-DCCB-49C1-BE63-FAEDF433D01F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B48143A9-DCCB-49C1-BE63-FAEDF433D01F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B48143A9-DCCB-49C1-BE63-FAEDF433D01F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3F579145-9FBB-42D3-81B6-AFB444AA1183}
+	EndGlobalSection
+EndGlobal
